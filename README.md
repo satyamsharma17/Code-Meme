@@ -12,7 +12,7 @@ An Android App for sharing cool memes with your friends. This Android App is usi
 ## Features
 
 - Unlimited Memes for entertainment.
-- Share button to share memes with your friends.\
+- Share button to share memes with your friends.
 - Next button to get new meme.
 
 ## Running Tests
